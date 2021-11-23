@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Vinay Kushwaha. I learning Java from past few months. I am looking forward to join backend software developer role. Proficiency in Java, PostgreSQL, Data structure and Algorithms and DBMS.
 
 <!--
 **Vinay-Kushwaha/Vinay-Kushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
