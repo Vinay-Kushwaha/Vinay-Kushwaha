@@ -1,5 +1,10 @@
 ### Hi there 👋
-My name is Vinay Kushwaha. I am learning Java from past few months. I am looking for an entry level job as a Software Developer role. Proficiency in Java, PostgreSQL, SPring Boot, MySQL,  Data structure and Algorithms and DBMS. Here I am exploring and learning new skills to become a software developer.
+My name is Vinay Kushwaha. I am working as a Senior Software Developer. Proficiency in Java, PostgreSQL, SPring Boot, MySQL,  Data structure and Algorithms and DBMS. 
+2+ years of experience as an API Developer possessing experience in creating and maintaining custom APIs by understanding clients' requirements and integrating them into different third-party software for efficient operations. Proficient in testing new software and APIs to identify bugs and modify the codes for improving performance. Adept at developing technology roadmaps of products by complying with clients' requirements to bolster customer satisfaction.
+
+3+ years of experience in optimizing productivity efficiency and service quality across various environments in an operations role.
+
+
 
 <!--
 **Vinay-Kushwaha/Vinay-Kushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
