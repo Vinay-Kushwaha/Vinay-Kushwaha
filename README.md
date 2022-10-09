@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Vinay Kushwaha. I am working as a Senior Software Developer. Proficiency in Java, PostgreSQL, SPring Boot, MySQL,  Data structure and Algorithms and DBMS. 
+My name is Vinay Kushwaha. I am working as a Software Developer. Proficiency in Java, PostgreSQL, SPring Boot, MySQL, Microservices, Data structure and Algorithms and DBMS. 
 2+ years of experience as an API Developer possessing experience in creating and maintaining custom APIs by understanding clients' requirements and integrating them into different third-party software for efficient operations. Proficient in testing new software and APIs to identify bugs and modify the codes for improving performance. Adept at developing technology roadmaps of products by complying with clients' requirements to bolster customer satisfaction.
 
 3+ years of experience in optimizing productivity efficiency and service quality across various environments in an operations role.
